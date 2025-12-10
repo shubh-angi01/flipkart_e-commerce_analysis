@@ -6,7 +6,7 @@ This project performs an end-to-end exploratory data analysis (EDA) of a Flipkar
 The goal is to understand product categories, pricing patterns, brand influence, and discount behavior through statistical exploration and data visualization.
 
 
-##  Project Highlights
+##  Project Highlights**
 
 - Cleaned and structured raw categorical & textual data  
 - Extracted main categories,sub-category and leaf-category from messy nested category strings  
@@ -46,12 +46,12 @@ All images are available in the `/visuals` folder.
 
 ## Tech Stack**
 
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
-VS Code
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
+Jupyter Notebook,
+VS Code,
 Git & Github
 
 
